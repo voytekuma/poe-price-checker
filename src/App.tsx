@@ -43,7 +43,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-poe-bg text-poe-text">
-      <header className="bg-po-secondary border-b border-poe-border">
+      <header className="bg-poe-secondary border-b border-poe-border">
         <div className="container mx-auto px-4 py-6">
           <h1 className="text-4xl font-bold text-poe-accent text-center">
             ⚔️ Path of Exile Unique Items
